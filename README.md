@@ -1,19 +1,11 @@
-# A laravel package to notify a developer about the errors in the application immediately by sending an email or a slack message.
+# Error Notifier
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/williamug/error-notifier.svg?style=flat-square)](https://packagist.org/packages/williamug/error-notifier)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/williamug/error-notifier/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/williamug/error-notifier/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/williamug/error-notifier/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/williamug/error-notifier/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/williamug/error-notifier.svg?style=flat-square)](https://packagist.org/packages/williamug/error-notifier)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
-
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/error-notifier.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/error-notifier)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+A laravel package to notify a developer about the errors in the application immediately by sending an email or a slack message.
 
 ## Installation
 
